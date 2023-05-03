@@ -1,0 +1,65 @@
+body{
+	background-color:#63738A;
+}
+form{
+	background-color:#F2F3F7;
+	width:250px;
+	height:450px;
+	border:2px solid green;
+	border-radius:20px;
+	outline: none;
+	font-family:verdana;
+	margin-top:70px;
+	
+}
+input[type="text"]{
+	width:210px;
+	border:2px solid black;
+	padding:10px;
+	border-radius:15px;
+	outline:none;
+	margin-top:10px;
+	background:transparent;
+	color:black;
+	font-family:verdana;
+	background-color:transparent;
+}
+input[type="password"]{
+	width:210px;
+	border:2px solid black;
+	padding:10px;
+	border-radius:15px;
+	outline:none;
+	margin-top:10px;
+	background:transparent;
+	color:black;
+	font-family:verdana;
+	background-color:transparent;
+}
+input[type="submit"]{
+	margin-top:10px;
+	padding:10px;
+	outline:none;
+	border-radius:15px;
+	width:150px;
+	background:liner-gradient(#44bd32,#4cd137);
+	cursor:pointer;
+	font-size:20px;
+	color:green;
+	font-family: verdana;
+	border:none;
+	}
+p{
+	font-size:14px;
+	color:black;
+	margin-top:20px;
+	
+}
+a{
+	text-decoration:none;
+	padding-left:10px;
+}
+img{
+	width:100px;
+	height:100px;
+}

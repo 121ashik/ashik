@@ -1,0 +1,41 @@
+img {
+	height:100px;
+	width:100px;
+	
+}
+form{
+	width:540px;
+	height:650px;
+	background-color:#F2F3F7;
+}
+body{
+	background-color:#63738A;
+}
+input[type="text"]{
+	width:210px;
+	border:2px solid black;
+	padding:10px;
+	border-radius:4px;
+	outline:none;
+	margin-top:10px;
+	background:transparent;
+	color:black;
+	font-family:verdana;
+	background-color:transparent;
+}
+.email input[type="text"]{
+	width:450px;
+}
+input[type="password"]{
+	width:450px; 
+	border:2px solid black;
+	padding:10px;
+	border-radius:4px;
+	outline:none;
+	margin-top:10px;
+	margin-bottom:10px;
+	background:transparent;
+	color:black;
+	font-family:verdana;
+	background-color:transparent;
+}
